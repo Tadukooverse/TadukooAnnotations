@@ -12,7 +12,7 @@
 	</modules>
 	<packaging>pom</packaging>
 	<name>${project.artifactId}</name>
-	<description>A collection of utilities to be used in various projects</description>
+	<description>Annotations and utilities to make annotations easier</description>
 	<url>http://github.com/Tadukooverse/TadukooAnnotations</url>
 	<developers>
 		<developer>
